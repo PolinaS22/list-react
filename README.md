@@ -1,4 +1,4 @@
-# Adjustable TO Do/buy/acheive list
+# Adjustable To Do/buy/acheive list
 
 A basic React web-app built for learning purposes.
 
