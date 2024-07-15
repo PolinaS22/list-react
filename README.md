@@ -21,3 +21,6 @@ The React app is designed to keep track of the tasks, purchases, and achievement
 * Working with extracting infromation from various input types in react.
 * Pass a key prop to list item React components so they may be uniquely identified.
 * Javascript Array methods like map and filter are not things I have used much before.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
